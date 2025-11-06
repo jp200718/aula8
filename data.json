@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Abissínio",
+        "img": "./img/abissínio.jpg",
+        "description": "O Abissínio é uma das raças mais antigas de gatos domésticos. São gatos ativos, inteligentes e muito sociáveis.",
+        "temperament": "Ativo, Inteligente, Sociável",
+        "origin": "Sudeste Asiático/Etiópia",
+        "lifeSpan": "12-15 anos"
+    },
+    {
+        "name": "Angorá",
+        "img": "./img/angorá.jpg",
+        "description": "O Angorá Turco é uma raça natural antiga, originária da Turquia. São conhecidos por sua pelagem sedosa e personalidade afetuosa.",
+        "temperament": "Afetuoso, Energético, Ágil",
+        "origin": "Turquia",
+        "lifeSpan": "12-18 anos"
+    },
+    {
+        "name": "Bombaim",
+        "img": "./img/bombaim.jpg",
+        "description": "O Bombaim é conhecido por sua pelagem preta brilhante e olhos dourados. São gatos muito afetuosos e sociáveis.",
+        "temperament": "Afetuoso, Brincalhão, Tranquilo",
+        "origin": "Estados Unidos",
+        "lifeSpan": "12-16 anos"
+    },
+    {
+        "name": "Gato de Bengala",
+        "img": "./img/gato_bengala.jpg",
+        "description": "O Bengala é conhecido por sua aparência selvagem, lembrando um leopardo em miniatura. São gatos muito ativos e inteligentes.",
+        "temperament": "Ativo, Inteligente, Curioso",
+        "origin": "Estados Unidos",
+        "lifeSpan": "12-16 anos"
+    },
+    {
+        "name": "Gato Persa", 
+        "img": "./img/gato_persa.jpg",
+        "description": "O Persa é famoso por sua pelagem longa e densa e face achatada. São gatos calmos e afetuosos.",
+        "temperament": "Calmo, Dócil, Afetuoso",
+        "origin": "Irã (antiga Pérsia)",
+        "lifeSpan": "12-17 anos"
+    },
+    {
+        "name": "Mainecoon",
+        "img": "./img/mainecoon.jpg",
+        "description": "O Maine Coon é uma das maiores raças de gatos domésticos. São conhecidos por sua pelagem densa e personalidade gentil.",
+        "temperament": "Gentil, Sociável, Inteligente",
+        "origin": "Estados Unidos",
+        "lifeSpan": "12-15 anos"
+    },
+    {
+        "name": "Oriental Shorthai",
+        "img": "./img/oriental_shorthair.jpg",
+        "description": "O Oriental Shorthair é conhecido por sua elegância e forte personalidade. São gatos muito vocais e apegados aos donos.",
+        "temperament": "Vocal, Energético, Afetuoso",
+        "origin": "Tailândia",
+        "lifeSpan": "12-14 anos"
+    },
+    {
+        "name": "Ragdoll",
+        "img": "./img/ragdoll.jpg",
+        "description": "O Ragdoll é conhecido por relaxar completamente quando segurado. São gatos grandes, dóceis e muito afetuosos.",
+        "temperament": "Dócil, Calmo, Carinhoso",
+        "origin": "Estados Unidos",
+        "lifeSpan": "12-17 anos"
+    },
+    {
+        "name": "Siamês",
+        "img": "./img/siamês.jpg",
+        "description": "O Siamês é uma das raças mais antigas e reconhecíveis. São gatos muito vocais e extremamente apegados aos donos.",
+        "temperament": "Vocal, Inteligente, Afetuoso",
+        "origin": "Tailândia",
+        "lifeSpan": "12-15 anos"
+    },
+    {
+        "name": "Sphynx",
+        "img": "./img/sphynx.jpg",
+        "description": "O Sphynx é conhecido por sua aparência sem pelos. São gatos muito afetuosos e precisam de cuidados especiais com a pele.",
+        "temperament": "Afetuoso, Energético, Sociável",
+        "origin": "Canadá",
+        "lifeSpan": "12-14 anos"
+    }
+]

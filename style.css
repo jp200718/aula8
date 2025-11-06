@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+.header h1{
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    font-size: 100px;
+    margin-bottom: 0; 
+}
+.header h2{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 50px;
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.header h2 img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.body{
+    background: radial-gradient(circle, #D9D9D9, #C0C0C0);
+
+}
+
+#cats{
+    margin: 0 auto;
+    display: block;
+    max-width: 2048px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    margin: 25px 0 25px 0;
+}
+
+#cats img{
+    height: 300px;
+    width: 400px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.card{
+    display: inline-block;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;    
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card figcaption{
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: solid;
+   
+    
+
+}
+
+.footer{
+    display: flex;
+    background-color: #ACACAC;
+    justify-content: center;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+
+nav.navbar .container-fluid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
+
+form.d-flex{
+    width: 100%;
+    max-width: 900px; 
+    justify-content: center; 
+}
+
+#form-control{
+    width: 100%;
+    max-width: 640px; 
+    padding: 10px 14px;
+    border-radius: 8px;
+    /* a borda estava branca e pedi ajuda a ia para corrigir  */
+    border: 1px solid #999;     
+    background: #fff;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+@media (max-width: 550px) {
+    .header{
+        margin-top: 20px;
+        height: 200px; 
+    }
+    
+    .header h1{
+        font-size: 36px;
+    }
+    
+    .header h2{
+        font-size: 18px;
+    }
+    
+    #cats img{
+        display: block;
+        height: 80%;
+        width: 80%;
+    }
+    
+    #form-control{
+        max-width: 90%;
+    }
+}
+
+
